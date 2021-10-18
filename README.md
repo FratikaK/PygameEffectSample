@@ -1,5 +1,5 @@
 # Usage  
-effect.pyを自分のpygameのリポジトリに入れる  
+effect.pyとimgフォルダを自分のpygameのリポジトリに入れる  
 
 Screen_abcを継承したクラスのdisplayメソッドのsuper.update()をする前に、
 draw_effect()を記述する  
